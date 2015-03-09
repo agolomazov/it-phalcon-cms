@@ -1,0 +1,17 @@
+{
+  "name": "agolomazov/itloft",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Anton Golomazov",
+      "email": "agolomazov@itloft.ru"
+    }
+  ],
+  "config": {
+    "vendor-dir": "app/vendors"
+  },
+  "require": {
+    "phpmailer/phpmailer": "v5.2.9"
+  }
+}
